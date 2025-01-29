@@ -1,7 +1,4 @@
-# FUKURO - Personal portfolio website!
-
-!!! THIS PROJECT IS UNDER CONSTRUCTION.
-It's going to be rebuilt
+# B&O - Personal portfolio website!
 
 ### See DEMO here: [here](https://anderzerfall.github.io/Fukuro.DZ/src/index.html)
 
