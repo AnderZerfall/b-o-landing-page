@@ -1,6 +1,6 @@
 # B&O - Personal portfolio website!
 
-### See DEMO here: [here](https://anderzerfall.github.io/Fukuro.DZ/src/index.html)
+### See DEMO here: [here](https://anderzerfall.github.io/b-o-landing-page/src/index.html)
 
 ### Link to the design(not mine): [here](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0)
 
